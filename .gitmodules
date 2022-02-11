@@ -1,0 +1,3 @@
+[submodule "CDB"]
+	path = CDB
+	url = https://github.com/ProjectIgnis/DeltaUtopia

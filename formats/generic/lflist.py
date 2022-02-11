@@ -1,0 +1,10 @@
+list = {
+    "forbidden": {
+    },
+
+    "limited": {
+    },
+
+    "semilimited": {
+    }
+}
